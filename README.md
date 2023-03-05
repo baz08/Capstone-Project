@@ -1,6 +1,6 @@
 # Sentiment Analysis of Cryptocurrency Reddit Comments using BERT
 
-##Crypto Sentiment Analysis Deployment Guide 
+## Crypto Sentiment Analysis Deployment Guide 
 
 This guide outlines the steps for deploying the Crypto Sentiment Analysis application.
 
